@@ -12,7 +12,7 @@
 
  💬 Ask me about **Node.js, React, MongoDB... or anything**
 
- ⚡ Fun fact **We can never be a complete developer**
+ ⚡ Fun fact **I am prodgy programmer**
  
  </div>
  <div align="center"> 
